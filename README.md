@@ -7,7 +7,7 @@ This project replicates the look and feel of an online learning platform, focusi
 - CSS3 – for styling, layout, and responsiveness
 - Flexbox & Grid – for modern page design
 
-- 
+
 - 📖 Future Improvements
 - Add JavaScript for interactivity (search, filters, dynamic course loading)
 - Backend integration for real user data
